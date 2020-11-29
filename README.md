@@ -18,9 +18,9 @@ Linux:
 Os exercícios de 1 a 4 estão junto com a aplicação na estrutura abaixo:
 
 main
-    java
-         com.teste01
-                  exercicio01
-                  exercicio02
-                  exercicio03
-                  exercicio04                                    
+java
+com.teste01
+exercicio01
+exercicio02
+exercicio03
+exercicio04                                    
